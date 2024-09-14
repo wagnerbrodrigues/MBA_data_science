@@ -7,5 +7,6 @@ Dsitribuição normal: Também conhecida como curva de sino, é uma distribuiç�
 Qui²: Teste utilizado para verificar se há uma associação significativa entre variaveis categoricas.
 Observação: Cada elemente de existente em um conjunto de dados.
 p valor: A probabilidade de observar os dados obtidos ou mais extremos, sob hipotese nula.
-Variancia:
+Regressão: Técnica estatistica usada para modelar a relação entre uma variavel dependente e uma ou mais variaveis idependentes.
+Variancia: Quadrado do desvio padrão, que mede a dispersão dos dados em torno da média.
 
