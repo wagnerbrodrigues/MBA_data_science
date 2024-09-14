@@ -1,6 +1,6 @@
 Abaixo alguns termos que glossarizei, para facilitar meu entendimento durante o curso
 
-Coeficiente Correlação: É a metrica de covariancia padronizada.
+Coeficiente Correlação: Padronização do valor da covariância, resultando em um índice que varia entre –1 e +1
 Covariancia: Medida da força e direção da relação entre duas variaveis. Pode ser positiva(Ambas aumentam\diminuem), Negativa(Uma aumenta a outra diminui) ou nula (sem relação).
 Qui²: Teste utilizado para verificar se há uma associação significativa entre variaveis categoricas.
 Observação: Cada elemente de existente em um conjunto de dados.
