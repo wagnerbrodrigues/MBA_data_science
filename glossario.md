@@ -9,11 +9,17 @@ Medida que indica a força e a direção da relação entre duas variáveis. Pod
 - **Negativa**: Quando uma variável aumenta, a outra diminui.
 - **Nula**: Não há relação entre as variáveis.
 
+## Decil
+Divisões de um conjunto de dados em 10 partes iguais. Cada decil representa 10% da distribuição dos dados.
+
 ## Desvio Padrão
 Medida de dispersão que mostra o quanto os valores de um conjunto de dados se afastam da média.
 
 ## Distribuição Normal
 Também conhecida como **curva de sino**, é uma distribuição simétrica onde a maioria dos valores está próxima da média.
+
+## Erro Padrão
+Medida da precisão com que a média amostral estima a média populacional. Calculado como o desvio padrão da amostra dividido pela raiz quadrada do número de observações.
 
 ## Logito
 Fórmula matemática utilizada em modelos de regressão logística para prever probabilidades de eventos binários.
@@ -30,8 +36,14 @@ Cada elemento presente em um conjunto de dados.
 ## p-valor
 Probabilidade de se observar os dados obtidos, ou algo mais extremo, assumindo que a hipótese nula seja verdadeira.
 
+## Percentil
+Valor abaixo do qual uma certa porcentagem dos dados cai. Por exemplo, o 90º percentil indica que 90% dos dados estão abaixo desse valor.
+
 ## População
 Conjunto total de elementos que compartilham uma característica comum e são o foco de um estudo.
+
+## Quartil
+Divisões de um conjunto de dados em quatro partes iguais. O primeiro quartil (Q1) representa os 25% inferiores, o segundo quartil (Q2) é a mediana, e o terceiro quartil (Q3) representa os 75% inferiores.
 
 ## Qui-quadrado (χ²)
 Teste estatístico utilizado para verificar se existe uma associação significativa entre variáveis categóricas.
