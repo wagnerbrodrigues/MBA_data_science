@@ -37,7 +37,7 @@ Cada elemento presente em um conjunto de dados.
 Probabilidade de se observar os dados obtidos, ou algo mais extremo, assumindo que a hipótese nula seja verdadeira.
 
 ## Percentil
-Valor abaixo do qual uma certa porcentagem dos dados cai. Por exemplo, o 90º percentil indica que 90% dos dados estão abaixo desse valor.
+O percentil é uma medida estatística que divide um conjunto de dados em 100 partes.
 
 ## População
 Conjunto total de elementos que compartilham uma característica comum e são o foco de um estudo.
